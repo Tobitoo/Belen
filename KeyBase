@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am tobitoo on github.
+  * I am toto_ad (https://keybase.io/toto_ad) on keybase.
+  * I have a public key ASCchgKduZ6dcYURFRogIcVjjVX3SOyzZUfbn-CPLznV1Ao
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209c86029db99e9d718511151a2021c5638d55f748ecb36547db9fe08f2f39d5d40a",
+      "host": "keybase.io",
+      "kid": "01209c86029db99e9d718511151a2021c5638d55f748ecb36547db9fe08f2f39d5d40a",
+      "uid": "7104c9371c7420806585a2c8c5efff19",
+      "username": "toto_ad"
+    },
+    "merkle_root": {
+      "ctime": 1643670371,
+      "hash": "3618433284b48ad4add8e1b969243bf9260bc363b07c1d146a1989648b58dcf0301e08981e04fbc27ed6b7a12e308e3d9678bbcbdb293a59d2b9a3668ea03f23",
+      "hash_meta": "23d9e1903897fa07b99503f889eec4bb7a9d2f7e8f50dbd9dc89407fc7a2b47f",
+      "seqno": 21765949
+    },
+    "service": {
+      "entropy": "2xmHnCFKaLUbVnPQEXE5wDtd",
+      "name": "github",
+      "username": "tobitoo"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1643670376,
+  "expire_in": 504576000,
+  "prev": "ec7d5710a2ba0929fcdcedccd624fa5a5afb9d2e263a3d0a4e0599f43614f623",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASCchgKduZ6dcYURFRogIcVjjVX3SOyzZUfbn-CPLznV1Ao](https://keybase.io/toto_ad), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnIYCnbmenXGFERUaICHFY41V90jss2VH25/gjy851dQKp3BheWxvYWTESpcCBMQg7H1XEKK6CSn83O3M1iT6Wlr7nS4mOj0KTgWZ9DYU9iPEICBKmslzf0WrtiCJ5eAIZ0LN5oiEA/kriGrmwkXcEVJDAgHCo3NpZ8RAO04OW9r6gXDAWOVztRJoo+tlvap1/eirnJKHKhpmC360TxOVTC3RawS+ben/re9shMCciD9RBLsC6QTAzCVxD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHzNW+Q+U3ffEKktQYROpDZkW2hh2vuv3sTXgARrX3rLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/toto_ad
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id toto_ad
+```
